@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(90deg, rgba(42,42,42,1) 0%, rgba(98,98,98,1) 50%, rgba(42,42,42,1) 100%);
+    text-align: center;
+}
+
+h1 {
+    color: green;
+    font-size: 100px;
+}
+
+#login_div { 
+    background: rgba(255,255,255,0.8);
+    float: none;
+    border-radius: 15px;
+    text-align: center;
+    
+}

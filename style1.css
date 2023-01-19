@@ -1,0 +1,31 @@
+body {
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,1) 15%, rgba(11,11,11,1) 25%, rgba(27,27,27,1) 35%, rgba(50,50,50,1) 45%, rgba(69,69,69,1) 50%, rgba(50,50,50,1) 55%, rgba(27,27,27,1) 65%, rgba(11,11,11,1) 75%, rgba(0,0,0,1) 82%, rgba(0,0,0,1) 100%);
+    text-align: center;
+}
+
+#logout{
+    size: 55px;
+}
+
+h3 {
+    color: azure;
+}
+
+h1 {
+    color: green;
+    font-size: 100px;
+}
+
+#chats {
+    background: rgba(255,255,255,0.8);
+    float: none;
+    border-radius: 15px;
+    text-align: center;
+}
+
+#chatss {
+    background: rgba(255,255,255,0.8);
+    float: none;
+    border-radius: 15px;
+    text-align: center;
+}
